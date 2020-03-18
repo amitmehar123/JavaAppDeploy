@@ -1,0 +1,2 @@
+# JavaAppDeploy
+all
